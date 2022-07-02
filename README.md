@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Gaurav Pingale
 ### Business Intelligence | Data Analyst | Analytics Engineer
-<img src='https://github.com/dev-gauravpingale/dev-gauravpingale/blob/main/digital_numbers_vortex-1.jpeg' alt='github' width='600' height='100'>
+<img src='https://github.com/dev-gauravpingale/dev-gauravpingale/blob/main/digital_numbers_vortex-1.jpeg' alt='github' width='1200' height='200'>
 
 As part of my assignments, I have been in Requirement Analysis, Data Analytics, Data Visualization, Support, Application Development & Maintenance
 
