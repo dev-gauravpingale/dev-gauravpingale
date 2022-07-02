@@ -2,15 +2,15 @@
 ### Business Intelligence | Data Analyst | Analytics Engineer
 <img src='https://github.com/dev-gauravpingale/dev-gauravpingale/blob/main/digital_numbers_vortex-1.jpeg' alt='github' width='1200' height='200'>
 
-As part of my assignments, I have been in Requirement Analysis, Data Analytics, Data Visualization, Support, Application Development & Maintenance
+🎆 As part of my assignments, I have been in Requirement Analysis, Data Analytics, Data Visualization, Support, Application Development & Maintenance
 
-Extensive experience with data visualization tools like Power BI (Power Pivot, Power Query, DAX), ETL/ELT with DataFlows and Datasets, Data Modeling, implementing security to the data models, Power BI apps and dashboards
+🎆 Extensive experience with data visualization tools like Power BI (Power Pivot, Power Query, DAX), ETL/ELT with DataFlows and Datasets, Data Modeling, implementing      security to the data models, Power BI apps and dashboards
 
-As a part of management, I have worked on Trello, Jira & version controlling tools such as GIT & Azure DevOps.
+🎆 As a part of management, I have worked on Trello, Jira & version controlling tools such as GIT & Azure DevOps.
 
-Have strong analytical skills and problem-solving skills with the ability to formulate and communicate recommendations for improvement.
+🎆 Have strong analytical skills and problem-solving skills with the ability to formulate and communicate recommendations for improvement.
 
-Have excellent verbal and written communication and organization skills, attention to detail and multi-tasking abilities.
+🎆 Have excellent verbal and written communication and organization skills, attention to detail and multi-tasking abilities.
 
 Skills: Power BI | DAX | SQL Server | Power Automate 
 
