@@ -1,5 +1,8 @@
 ## Hi there 👋, I am Gaurav Pingale
 ### Business Intelligence | Data Analyst | Analytics Engineer
+
+####An Analytics Engineer with 5.5 years of experience in the Data Analytics.
+
 As part of my assignments, I have been in Requirement Analysis, Data Analytics, Data Visualization, Support, Application Development & Maintenance
 
 Extensive experience with data visualization tools like Power BI (Power Pivot, Power Query, DAX), ETL/ELT with DataFlows and Datasets, Data Modeling, implementing security to the data models, Power BI apps and dashboards
@@ -11,10 +14,11 @@ Have strong analytical skills and problem-solving skills with the ability to for
 Have excellent verbal and written communication and organization skills, attention to detail and multi-tasking abilities.
 
 Skills: Power BI | DAX | SQL Server | Power Automate 
+Inetered in Learning : Python with Data Analytics libraries | Tableau | Azure Data Solutions for Analytics
 
-- 🔭 I’m currently working on Expanding my analytics horizon 
+- 🔭 I’m currently working on Expanding my Analytics Horizon 
 - 🌱 I’m currently learning Tableau 
-- 👯 I’m looking to collaborate on Analytics Use Cases 
+- 👯 I’m looking to collaborate on various Analytics Use Cases 
 - 💬 Ask me about Power BI, Data Visualization, SQL Server, Power Automate 
 - 📫 How to reach me: gaurav_pingale@hotmail.com 
 
