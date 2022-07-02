@@ -1,5 +1,5 @@
-### Hi there 👋, I am Gaurav Pingale
-#### Business Intelligence | Data Analyst | Analytics Engineer
+## Hi there 👋, I am Gaurav Pingale
+### Business Intelligence | Data Analyst | Analytics Engineer
 As part of my assignments, I have been in Requirement Analysis, Data Analytics, Data Visualization, Support, Application Development & Maintenance
 
 Extensive experience with data visualization tools like Power BI (Power Pivot, Power Query, DAX), ETL/ELT with DataFlows and Datasets, Data Modeling, implementing security to the data models, Power BI apps and dashboards
