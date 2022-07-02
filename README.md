@@ -11,7 +11,7 @@ Have strong analytical skills and problem-solving skills with the ability to for
 Have excellent verbal and written communication and organization skills, attention to detail and multi-tasking abilities.
 
 Skills: Power BI | DAX | SQL Server | Power Automate 
-Interested in Learning : Python with Data Analytics libraries | Tableau | Azure Data Solutions for Analytics
+
 
 - 🔭 I’m currently working on Expanding my analytics horizon 
 - 🌱 I’m currently learning Tableau 
